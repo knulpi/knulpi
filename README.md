@@ -3,7 +3,7 @@
 ### I'm a full-stack web engineer, docker expert and tinkerer
 
 - 🔭 I’m currently working on a full-blown house automation for smoother living
-- 🌱 I’m currently learning Rust and basic ML
+- 🌱 I’m currently learning Svelte and working with graph database 
 - 💬 Ask me about Angular, TypeScript stuff, Golang, Docker, GitHub Actions, DevOps stuff, ...
 - 📫 Reach me via mail
 - ⚡ Fun fact: There is a tower clock two meters above my head, whose bell rings every half an hour
